@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyMath1022
 - 👀 I’m interested in the Application of Mathematic and Statistical model in Finance and Economic
-- 🌱 I’m currently learning Applied Mathematic in NDHU, discovering Mathematics, Machine Learning, Deep Learning and Reinforcement Learning in Economic and Finance
+- 🌱 I’m currently learning Applied Mathematic in NDHU, discovering the appication of Mathematics, Machine Learning, Deep Learning and Reinforcement Learning in Economic and Finance
 
 
 <!---
