@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyMath1022
 - 👀 I’m interested in Mathematic, Economic and Finance
-- 🌱 I’m currently learning Applied Mathematic in NDHU
+- 🌱 I’m currently studying Applied Mathematic in NDHU
 
 
 <!---
